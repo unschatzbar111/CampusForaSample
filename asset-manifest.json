@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CampusForaSample/static/css/main.27022749.css",
+    "main.js": "/CampusForaSample/static/js/main.b2226b23.js",
+    "static/js/787.3a699bad.chunk.js": "/CampusForaSample/static/js/787.3a699bad.chunk.js",
+    "index.html": "/CampusForaSample/index.html",
+    "main.27022749.css.map": "/CampusForaSample/static/css/main.27022749.css.map",
+    "main.b2226b23.js.map": "/CampusForaSample/static/js/main.b2226b23.js.map",
+    "787.3a699bad.chunk.js.map": "/CampusForaSample/static/js/787.3a699bad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27022749.css",
+    "static/js/main.b2226b23.js"
+  ]
+}
